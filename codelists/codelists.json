@@ -17,6 +17,84 @@
       "url": "https://codelists.opensafely.org/codelist/opensafely/leflunomide-dmd/1765d120/",
       "downloaded_at": "2022-05-31 13:58:33.991826Z",
       "sha": "0d88edfe37ebb951a6ccc6199ef360c91b188c11"
+    },
+    "opensafely-levothyroxine.csv": {
+      "id": "opensafely/levothyroxine/33c99f4d",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/levothyroxine/33c99f4d/",
+      "downloaded_at": "2022-09-10 22:40:29.737048Z",
+      "sha": "38b1c4f4f4981d2ac19aaa21de6b0c8e2de86a54"
+    },
+    "opensafely-thyroid-stimulating-hormone-tsh-testing.csv": {
+      "id": "opensafely/thyroid-stimulating-hormone-tsh-testing/11a1abeb",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/thyroid-stimulating-hormone-tsh-testing/11a1abeb/",
+      "downloaded_at": "2022-09-10 22:40:30.035165Z",
+      "sha": "e7f3090ffa269fb1e3efdd5859c43a70e76efeec"
+    },
+    "opensafely-red-blood-cell-rbc-tests.csv": {
+      "id": "opensafely/red-blood-cell-rbc-tests/576a859e",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/red-blood-cell-rbc-tests/576a859e/",
+      "downloaded_at": "2022-09-10 22:40:30.329880Z",
+      "sha": "e111693c2b9ae4e688d859daa73491a978b0795b"
+    },
+    "opensafely-alanine-aminotransferase-alt-tests.csv": {
+      "id": "opensafely/alanine-aminotransferase-alt-tests/2298df3e",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/alanine-aminotransferase-alt-tests/2298df3e/",
+      "downloaded_at": "2022-09-10 22:40:30.620412Z",
+      "sha": "0d231653e5ece343f6945309d21fc40c7f685ff2"
+    },
+    "opensafely-sodium-tests-numerical-value.csv": {
+      "id": "opensafely/sodium-tests-numerical-value/32bff605",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/sodium-tests-numerical-value/32bff605/",
+      "downloaded_at": "2022-09-10 22:40:30.893754Z",
+      "sha": "d2484bb0f583332cfe4a0ecd0c5a2d7727b16783"
+    },
+    "opensafely-systolic-blood-pressure-qof.csv": {
+      "id": "opensafely/systolic-blood-pressure-qof/3572b5fb",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/systolic-blood-pressure-qof/3572b5fb/",
+      "downloaded_at": "2022-09-10 22:40:31.223508Z",
+      "sha": "f2bc461e351499f4e5573a6f94e760b99979491e"
+    },
+    "opensafely-nhs-england-care-homes-residential-status.csv": {
+      "id": "opensafely/nhs-england-care-homes-residential-status/3712ef13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/nhs-england-care-homes-residential-status/3712ef13/",
+      "downloaded_at": "2022-09-10 22:40:31.507308Z",
+      "sha": "357b2af4841e574f7d43bfeff143b39cdfed6997"
+    },
+    "opensafely-ethnicity-snomed-0removed.csv": {
+      "id": "opensafely/ethnicity-snomed-0removed/2e641f61",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ethnicity-snomed-0removed/2e641f61/",
+      "downloaded_at": "2022-09-10 22:40:31.816085Z",
+      "sha": "8b849b5b785d80306e488d0109640c8c1d2da01b"
+    },
+    "nhsd-primary-care-domain-refsets-mh_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/mh_cod/20210127",
+      "url": "https://codelists.opensafely.org/codelist/nhsd-primary-care-domain-refsets/mh_cod/20210127/",
+      "downloaded_at": "2022-09-10 22:40:32.134463Z",
+      "sha": "6e98da3c8765354b47ab74d1bef4679966a337f3"
+    },
+    "nhsd-primary-care-domain-refsets-dem_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/dem_cod/20210127",
+      "url": "https://codelists.opensafely.org/codelist/nhsd-primary-care-domain-refsets/dem_cod/20210127/",
+      "downloaded_at": "2022-09-10 22:40:32.453162Z",
+      "sha": "96defdd5b5345aaed6c6e2e71188c966288e4731"
+    },
+    "nhsd-primary-care-domain-refsets-ld_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/ld_cod/20210127",
+      "url": "https://codelists.opensafely.org/codelist/nhsd-primary-care-domain-refsets/ld_cod/20210127/",
+      "downloaded_at": "2022-09-10 22:40:32.909416Z",
+      "sha": "0c5bc3b050a55c2090e16932fd7364a0be775cb4"
+    },
+    "opensafely-housebound.csv": {
+      "id": "opensafely/housebound/5bc77310",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/housebound/5bc77310/",
+      "downloaded_at": "2022-09-10 22:40:33.205754Z",
+      "sha": "4408752ee525151741ce050f1a20c51cd5c0116a"
+    },
+    "opensafely-no-longer-housebound.csv": {
+      "id": "opensafely/no-longer-housebound/29a88ca6",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/no-longer-housebound/29a88ca6/",
+      "downloaded_at": "2022-09-10 22:40:33.508043Z",
+      "sha": "cedcdcc0354885c1aa08224072718ff6bdae7450"
     }
   }
 }
